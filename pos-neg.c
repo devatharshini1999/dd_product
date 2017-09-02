@@ -3,11 +3,13 @@
 void main()
 {
 int n;
-if(n>1)
+if(n>0)
 {
 printf("positive");
 }
-elseif("negative");
+elseif(n<0);
+  {
+    printf("zero");
 }
 else
 {
