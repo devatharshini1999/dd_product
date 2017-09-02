@@ -8,4 +8,8 @@ if(c>='a' && c<='z' || c>='A' && c<='Z')
 {
 printf("alphabet %d",c);
 }
+  else
+  {
+  printf("not alphabet %c",c);
+  }
 }
