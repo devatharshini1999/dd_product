@@ -7,9 +7,9 @@ if(n>0)
 {
 printf("positive");
 }
-elseif(n<0);
+elseif(n<0)
   {
-    printf("zero");
+    printf("negative");
 }
 else
 {
